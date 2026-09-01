@@ -1,0 +1,4 @@
+# 注册 dsh-prompt-history-plugin 到 profile
+- insert:
+    - id: dsh-prompt-history
+      name: dsh-prompt-history-plugin
